@@ -57,20 +57,20 @@ export const projectsData = [
     title: "Vidya Laras for Student",
     description:
       "Vidya Laras for Student is a learning platform to assist the teaching and learning process for role students integrated with https://lms.pptik.id.",
-    tags: ["Figma", "Flutter", "Material Design"],
+    tags: ["Figma", "Flutter", "Material Design", "API", "Android"],
     imageUrl: vidyalaras,
   },{
     title: "School ABC",
     description:
       "School ABC is an application to learn the letters of the Indonesian alphabet accompanied by examples of animal images",
-    tags: ["Flutter"],
+    tags: ["Flutter","Android"],
     imageUrl: schoolabc,
   },
   {
     title: "Expensify",
     description:
       "Expensify is an application that can make it easier for users to manage finances.",
-    tags: ["Figma", "Flutter", "Firebase"],
+    tags: ["Figma", "Flutter", "Firebase","Android"],
     imageUrl: expensify,
   },
  
