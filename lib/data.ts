@@ -4,7 +4,7 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import expensify from "@/public/expensify.png";
 import vidyalaras from "@/public/vidyalaras.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
+import schoolabc from "@/public/schoolabc.png";
 
 export const links = [
   {
@@ -59,6 +59,12 @@ export const projectsData = [
       "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
     tags: ["Figma", "Flutter", "Material Design"],
     imageUrl: vidyalaras,
+  },{
+    title: "School ABC",
+    description:
+      "School ABC is an application to learn the letters of the Indonesian alphabet accompanied by examples of animal images",
+    tags: ["Flutter"],
+    imageUrl: schoolabc,
   },
   {
     title: "Expensify",
