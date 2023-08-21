@@ -56,7 +56,7 @@ export const projectsData = [
   {
     title: "Vidya Laras for Student",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
+      "Vidya Laras for Student is a learning platform to assist the teaching and learning process for role students integrated with https://lms.pptik.id.",
     tags: ["Figma", "Flutter", "Material Design"],
     imageUrl: vidyalaras,
   },{
