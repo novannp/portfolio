@@ -83,5 +83,6 @@ export const skillsData = [
   "Flutter", 
   "Figma", 
   "Bootstrap", 
-  "Linux"
+  "Linux",
+  "Firebase"
 ] as const;
